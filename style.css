@@ -46,6 +46,10 @@ section {
   transition: all ease-out .2s;
   cursor: pointer;
 }
+ 
+#ennemi card {
+  background-color: red;
+}
 
 .card:hover {
   transform: scale(1.04) translateY(-5px) translateX(-5px);
