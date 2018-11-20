@@ -85,6 +85,20 @@ p {
   background-repeat: no-repeat;
 }
 
+.JMI-image {
+  background-image: url(images/portrait-thechno-sven.jpg);
+  
+  /* Image from https://opengameart.org/content/an-arith */
+  height: 220px;
+  background-color: white;
+  box-shadow: 0px 3px 0 rgba(0, 0, 0, .15);
+  position: relative;
+  background-position: top;
+  background-size: cover;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
 .type {
   text-transform: uppercase;
   color: rgba(255,255,255,.8);
