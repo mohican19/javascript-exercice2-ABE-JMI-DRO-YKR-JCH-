@@ -28,6 +28,13 @@ p {
   font-size: 16px;
 }
 
+section {
+    margin-top: 2em;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    }
+
 .card {
   background-color: #2a79d0;
   border: solid 10px #000000;
