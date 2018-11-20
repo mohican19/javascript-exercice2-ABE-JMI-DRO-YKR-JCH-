@@ -135,6 +135,16 @@ section {
   background-repeat: no-repeat;
 }
 
+#jch-specter {
+  margin-top: 2em;
+}
+
+#jch-specter .image {
+  padding: 1em;
+  background-image: url('images/702px-Spectre_with_text.svg.png');
+  background-position: 0 1em;
+}
+
 .type {
   text-transform: uppercase;
   color: rgba(255,255,255,.8);
